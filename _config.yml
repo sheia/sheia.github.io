@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Minj0i Blog
+email:              mjkim9139@gmail.com
+description:        기록하고 싶은 내용들
+author:             MinJeong Kim
 baseurl:            ""
-url:                "https://sheia.github.io"
+url:                "https://minj0i.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    minj0i
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
@@ -16,6 +16,9 @@ linkedin_username:
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
+theme: jekyll-theme-clean-blog
+plugins:
+  - jekyll-feed
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
@@ -23,7 +26,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+ 
 
-sass:
-  sass_dir: _sass
-  style: compressed
+remote_theme : StartBootstrap/startbootstrap-clean-blog-jekyll
