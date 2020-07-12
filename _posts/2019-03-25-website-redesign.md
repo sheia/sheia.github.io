@@ -77,4 +77,4 @@ To provide detailed requirements for these new capabilities, competitor analysis
 
 ---
 
-Thanks for reading. Please let me know your comments. 
+Thanks for reading.  

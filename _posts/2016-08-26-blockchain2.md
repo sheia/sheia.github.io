@@ -2,7 +2,7 @@
 layout: post
 title: "Blockchain - Part2"
 subtitle: "When to use blockchain?"
-date: 2016-08-26 23:45:13 -0400
+date: 2016-08-26 13:45:13 -0400
 background: '/img/posts/blockchain-part2.jpg'
 ---
 
@@ -27,6 +27,6 @@ Suppose there is a transaction between 2 banks, BankA and BankB. BankA sends the
 
 Blockchain can help here by providing a shared database which the banks can use as a shared ledger. Each bank will know that this is the same information that is read by the other bank also. Due to the immutability of blockchain, the banks and the regulators can be confident about the validity of the data and its history and the same can be used for regulatory reporting as well.
 
-You may refer to my earlier article in this link for the basics of blockchain.
+You may refer to my [earlier article](https://sheia.github.io/2016/08/18/blockchain1.html) for the basics of blockchain.
 
-Please leave a comment in case of any thoughts or queries.
+Thanks.

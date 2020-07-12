@@ -2,7 +2,7 @@
 layout: post
 title: "Blockchain - Part1"
 subtitle: "A beginner's guide"
-date: 2016-08-18 23:45:13 -0400
+date: 2016-08-18 13:45:13 -0400
 background: '/img/posts/blockchain-part1.jpg'
 ---
 
@@ -21,6 +21,6 @@ Suppose a transaction takes place between 2 parties. Each node will individually
 
 Public blockchains are those in which every node can read and write to the public ledger, that is a node doesn’t need any special permission to write to the ledger. The most widely implemented example of the public blockchain is Bitcoin. Since any node can write into a public ledger, the public blockchain has more complex logic (such as proof of work, longest chain rule, etc) to keep illegitimate blocks out of the ledger. In comparison, the permissioned or private ledger is one in which only a limited number of authorized nodes can write to the ledger. In the world of finance, one would expect to see more applications of permissioned than public blockchains due to the need for regulations compliance and risks involved.
 
- In the next post, I would talk more about the application of blockchain and some use cases.
+ In the [next post](https://sheia.github.io/2016/08/26/blockchain2.html), I talk more about the application of blockchain and some use cases.
 
- If you have any comments or queries, please leave a comment.
+Thanks.
