@@ -2,7 +2,7 @@
 layout: page
 title: Sheia
 description: Product Manager. Mentor. Leader.
-background: '/img/bg-about-new2.jpg'
+background: '/img/bg-about-new1.jpg'
 ---
 ### About Me.
 
