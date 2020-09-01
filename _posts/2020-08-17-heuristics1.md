@@ -13,7 +13,7 @@ background: '/img/posts/10-heuristics-top-banner.jpg'
 
 These heuristics were formalized 25 years ago and is so common in products around us today, that we have started taken them for granted. These ideas are now deeply ingrained in modern-day customer experience that it is imperative that we adhere to them.
 
-In this post, we explore the first 5 heuristics with modern-day examples. It will be followed by Part2 which will discuss the rest of the heuristics.
+In this post, we explore the first 5 heuristics with modern-day examples. [Part2](https://sheia.github.io/2020/09/01/heuristics2.html) discusses the rest of the heuristics.
 
 ## 1. Visibility of system status
 > The system should always keep users informed about what is going on, through appropriate feedback within a reasonable time.
