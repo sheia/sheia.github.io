@@ -18,7 +18,7 @@ The cloud service market is predicted to grow drastically in the coming years. S
 The Cloud provides **globally distributed**, **scalable** and **cost-effective** computing resources.
 
 * High reliability from having globally distributed resources.
-* Faster time to market as resources are elastically provisioned and released based on the demand giving organizations to quickly respond to demand.  
+* Faster time to market as resources are elastically provisioned and released based on the demand giving organizations the ability to quickly respond to demand.  
 * Cost-effective from resource pooling and the pay-as-you-go utility model. This also helps reduce upfront infrastructure costs. 
 * Cloud provides access to innovative technologies such as IoT, AI, blockchain and predictive analytics. 
 
