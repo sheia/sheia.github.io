@@ -48,11 +48,11 @@ The Cloud provides the integrated environment and the scalable computing resourc
 
 Predictive Analytics uses real-time data (from IoT) to identify warning signs before failures. Businesses can use this information to perform predictive maintenance and avoid performance issues and expensive downtime.  
 
-|![](/img/posts/cloud-analytics1.jp2)| 
+|![](/img/posts/cloud-analytics.jp2)| 
 |:--:| 
 | <span style="font-family:Papyrus; font-size:.6em;">Using predictive analytics to identify early warning signs. (https://www.kone.com/en/Images/Corporate_site_elevator_escalator_doors-Selected_highlights-688x376-04_tcm17-87597.jpg?v=1)</span>|
 
-For example, [KONE](https://www.kone.com/en/company/) manufactures and maintains city infrastructure such as elevators, escalation, automatic doors, etc. All of these devices are connected to the cloud and continuously monitors. The data from these devices feed into predictive analytics which identifies potential machinery problems in advance and intimates the staff to perform predictive maintenance. This predictive maintenance ensures high availability of the building infrastructure.
+For example, [KONE](https://www.kone.com/en/company/) manufactures and maintains city infrastructure such as elevators, escalation, automatic doors, etc. All of these devices are connected to the cloud and monitored 24/7. The data from these devices feed into predictive analytics which identifies potential machinery problems in advance and intimates the staff to perform predictive maintenance. This predictive maintenance ensures high availability of the building infrastructure.
 
 Please follow [this link](https://sheia.github.io/2020/09/30/cloudcomputing.html) for the beginner's guide to Cloud Computing.
 

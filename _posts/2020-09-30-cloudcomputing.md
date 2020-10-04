@@ -82,6 +82,8 @@ Renting a car is similar to the experience of using Paas. You are not particular
 
 Hiring a taxi is similar to the experience of using Saas. You are not particular about the model/make of the car, the performance, the colour, etc. You are not the one driving the car and also not paying for the fuel and tolls, as this is baked into the price.
 
+Please follow [this link](https://sheia.github.io/2020/10/03/cloudcomputingandemergingtech.html) to explore how the Cloud supports and enables emerging technologies.
+
 ----
 
 Reference: [Introduction to Cloud Computing](https://courses.edx.org/courses/course-v1:IBM+CC0101EN+2T2020/course/)
