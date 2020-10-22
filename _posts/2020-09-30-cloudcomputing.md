@@ -18,7 +18,7 @@ The cloud service market is predicted to grow drastically in the coming years. S
 The Cloud provides **globally distributed**, **scalable** and **cost-effective** computing resources.
 
 * High reliability from having globally distributed resources.
-* Faster time to market as resources are elastically provisioned and released based on the demand giving organizations the ability to quickly respond to demand.  
+* Faster time to market as resources are elastically provisioned and released based on the demand, giving organizations the ability to quickly respond to demand.  
 * Cost-effective from resource pooling and the pay-as-you-go utility model. This also helps reduce upfront infrastructure costs. 
 * Cloud provides access to innovative technologies such as IoT, AI, blockchain and predictive analytics. 
 
@@ -30,8 +30,8 @@ Most of the challenges are based on perceived risks with security and data prote
 
 * Data ownership and data safety - Security is an important consideration when you’re allowing a third-party to maintain
 business-critical data.
-* Dependency on a third party of infrastructure availability and performance. 
-* Saas application access relies on good internet access. 
+* Dependency on a third party for infrastructure availability and performance. 
+* Saas application access relies on having a good internet connection. 
 
 ## As a customer, what are the various options I have? 
 

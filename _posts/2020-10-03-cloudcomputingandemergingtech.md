@@ -18,6 +18,8 @@ The Internet of Things is a giant network of connected things and people, whereb
 
 The data collected through IoT devices is stored and processed on the Cloud. The Cloud enables quick collection, processing of data and response back to the IoT, even when the IoT device is in transit. 
 
+Industrial IoT (IIoT) is a huge area of development in industries such as manufacturing, healthcare, transport, retail, etc. Just like Iot is making the lives of consumers more efficient, IIot is doing the same for businesses. Sensors are embedded in machinery, jet engines, hospital beds, etc to enable business to track the usage of these equipments and manage them better. Most businesses are using IIot for predictive maintenance, tracking energy usage, shop floor/warehouse management, etc.
+
 ## Artificial Intelligence on the Cloud
 The Cloud provides the computing power needed by AI to analyze data and generate insights. 
 
