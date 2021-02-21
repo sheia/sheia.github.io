@@ -48,7 +48,7 @@ The next bang for your buck is the behavioral questions as they are the next pop
 ## 3. Product and Design questions
 *What are these:* Product and Design questions are those where you would be asked to design a new product, critique an existing app or website or discuss a product that is shared during the interview process. 
 
-*What’s important:* The approach you use these problems is what is important. The interviewer may ask to you think aloud or share your screen so he/she can see your approach. For B2C companies, in addition to approach, innovative and uniques ideas would give you the extra edge.
+*What’s important:* The approach you use these problems is what is important. The interviewer may ask you to think aloud or share your screen so he/she can see your approach. For B2C companies, in addition to approach, innovative and uniques ideas would give you the extra edge.
 
 *Recommended material:* Practice the [CIRCLES method](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/) and the Design critique criteria in [Decode and Conquer](https://amzn.to/2URwteJ) for answering the Product and Design questions.
 
