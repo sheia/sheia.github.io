@@ -5,7 +5,7 @@ subtitle: "Guide to preparing for a PM interview and tips specific for India."
 date: 2020-11-24 00:45:13 -0400
 background: '/img/posts/PM-interview-banner.jpg'
 ---
-I was on the lookout for a Product Manager (PM) job during arguably the worst time in a generation, the COVID-19 pandemic. I applied for many jobs and attended quite a few interviews. In this blog, I want to share my learnings and some nuances of attending the interview in India. In my next post, I will share some interview questions I was asked.
+I was on the lookout for a Product Manager (PM) job during arguably the worst time in a generation, the COVID-19 pandemic. I applied for many jobs and attended quite a few interviews. In this blog, I want to share my learnings and some nuances of attending the interview in India. Please refer to this [post](https://sheia.github.io/2021/02/21/PMquestions.html) for some sample interview questions.
 
 #### The Must-reads (or sees)
 Among the overwhelming amount of material available to help you prepare for the PM interview, I recommend the below: 
@@ -74,4 +74,4 @@ If you are seeking a Cloud PM role, these questions are one of the most critical
 
 
 
-In my next post, I will share some interview questions I was asked. Stay Tuned!
+You can also practise PM interview questions [here](https://sheia.github.io/2021/02/21/PMquestions.html).
