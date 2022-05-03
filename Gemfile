@@ -1,5 +1,6 @@
 gem "jekyll-theme-clean-blog"
-gem "github-pages", "~> 206", group: :jekyll_plugins
+#gem "github-pages", "~> 206", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
