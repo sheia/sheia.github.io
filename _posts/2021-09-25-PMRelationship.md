@@ -11,7 +11,7 @@ The other day my leader shared the unfortunate news that one of the brightest pr
 
 All other skills of a Product Manager become irrelevant if the PM is unable to nurture a good relationship at work.
 
-# Which relationship exactly?
+# Relationship with whom?
 Relationship with pretty much everyone else in the org - with engineering and designers in the team, cross-functional teams, peer product manager and executives.
 
 # Why is it so important?
@@ -22,7 +22,7 @@ Something that can be done in minutes, can take several unnecessary email exchan
 
 A high trust relationship is especially important when sailing through rough waters such as when you have to give difficult feedback, have to say no or have any difficult conversation.
 
-This is especially relevant these days when everything happens remotely.
+This is especially relevant when most interactions are virtual.
 
 # How can you build a high trust relationship?
 
