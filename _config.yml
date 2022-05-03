@@ -25,7 +25,9 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
  
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 #remote_theme : StartBootstrap/startbootstrap-clean-blog-jekyll
