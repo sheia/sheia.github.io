@@ -16,7 +16,7 @@ linkedin_username:	sheia
 google_analytics:   UA-172905762-1 # out your google-analytics code
 
 # Build settings
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 markdown:           kramdown
