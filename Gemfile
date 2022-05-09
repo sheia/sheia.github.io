@@ -1,6 +1,6 @@
 source "https://rubygems.org/"
 
-gem "jekyll-theme-clean-blog"
+#gem "jekyll-theme-clean-blog"
 gem "github-pages", "~> 226", group: :jekyll_plugins
 #gem "github-pages", group: :jekyll_plugins
 
