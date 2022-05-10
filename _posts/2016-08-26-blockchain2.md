@@ -7,9 +7,9 @@ background: '/img/posts/blockchain-part2.jpg'
 ---
 
 
-The first step in solving a business problem is defining requirements. Then one defines a design that best solves the business problem. With the hype around blockchain and over-eagerness to get on the blockchain bandwagon, corporates are taking the reverse approach – they are searching for use cases to implement blockchain in their organisations. 
+The first step in solving a business problem is defining requirements. Then one defines a design that best solves the business problem. With the hype around blockchain and over-eagerness to get on the blockchain bandwagon, corporates are taking the reverse approach – they are searching for use cases to implement blockchain in their organisations. But was blockchain really required in that use case?
 
-But was blockchain really required in the use case? If there are few or no real benefit in using blockchain, it would be wiser to use an already existing and well established databases which has years of research and development behind them rather than use blockchain, which is still in its very nascent stage.
+Blockchain is still in its very nascent stages. If there are few or no real benefit in using blockchain, it would be wiser to use an already existing and well established databases which has years of research and development behind them rather than blockchain.
 
 ## So when should one choose blockchain?
 
