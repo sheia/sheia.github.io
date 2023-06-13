@@ -45,7 +45,29 @@ Many companies use a combination of products and services to deliver value.
 
 A project is a discrete scope of work with a specific aim, timeline and resources. Any feature enhancement done to a product can be considered a project. Projects are an essential part of product management. But product iterations should go on even after a project is done. You need to scope out new projects to reach the outcome.
 
+##  What is a product-led company?
 
+A product-led company is one which 
+
+* optimizes for business outcomes, 
+* aligns product strategy to goals and 
+* prioritize the most effective products that will help develop those products into sustainable drivers of growth.
+
+
+##  What we know and what we don't
+
+|![](/img/posts/build_trap_questions.jpg)| 
+|:--:| 
+| <span style="font-family:Papyrus; font-size:.6em;">Photo by Leeloo Thefirst from Pexels</span>|
+
+||Known|Unknown|
+| :----------: | :----------: | :----------: | 
+| **Known**  | **Facts** - basic needs that are required to do the job. An example could be requirements mandated by government regulations|**Questions** - when you have clarity enough to know which questions to ask. For example, these could be assumptions that need to be tested |
+| **Unknown**  |**Intuition** - from years of experience; when you feel like this is the right thing to do.|**Discovery** - when you don't know what you don't know. These are discoveries you get when talking to customers, from data analysis or research.|
+
+> Product management is the domain of recognizing and investigating the known unknowns (questions) and of reducing the universe around the unknown unknowns (discovery). Anyone can run with solutions based on known unknowns. But it takes a certain skill to be able to sift through the massive amounts of information and to identify the right questions to ask and when to ask them.
+
+> Product managers identify features and products that will solve customer problems while achieving business goals.
 
 Hope you found these notes helpful. Stay tuned for the next part of this book summary.
 
