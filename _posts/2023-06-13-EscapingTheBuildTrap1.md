@@ -9,7 +9,7 @@ background: '/img/posts/build-trap-banner.jpg'
 
 [“Escaping the build trap By Melissa Perri”](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/ref=sr_1_1?keywords=build+trap+melissa+perri&qid=1685794102&sr=8-1) is always on the list of must-read books for Product Managers.
     
-This blog is the first part of my book summary.
+This blog is the first part of my book summary. You can find the second part [here.](https://sheia.github.io/2023/06/15/EscapingTheBuildTrap2.html)
 
 ##  What is the build trap? and what is the book about?
 
@@ -69,6 +69,7 @@ A product-led company is one which
 
 > Product managers identify features and products that will solve customer problems while achieving business goals.
 
-Hope you found these notes helpful. Stay tuned for the next part of this book summary.
+Hope you found these notes helpful. You can find the second part [here.](https://sheia.github.io/2023/06/15/EscapingTheBuildTrap2.html)
+
 
 Thanks for reading.

@@ -9,7 +9,7 @@ background: '/img/posts/build-trap2-banner.jpg'
 
 [“Escaping the build trap By Melissa Perri”](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/ref=sr_1_1?keywords=build+trap+melissa+perri&qid=1685794102&sr=8-1) is always on the list of must-read books for Product Managers.
     
-This blog is the second part of my book summary. You can find the first part [here.](https://sheia.github.io/2023/06/13/EscapingTheBuildTrap.html)
+This blog is the second part of my book summary. You can find the first part [here.](https://sheia.github.io/2023/06/13/EscapingTheBuildTrap1.html)
 
 ##  What does a great product manager do?
 
@@ -44,7 +44,7 @@ The figure above shows how work starts to shift across roles.
 For large organizations, the author recommends organizing teams around value streams. A value stream includes all activities needed to deliver value to the customer. For example, if there is an app to buy a car insurance, the app should be part of the larger division that holds the true value - the car insurance division. 
 
 
-Hope you found these notes helpful. Stay tuned for the next part of this book summary. You can find the first part [here.](https://sheia.github.io/2023/06/13/EscapingTheBuildTrap.html)
+Hope you found these notes helpful. Stay tuned for the next part of this book summary. You can find the first part [here.](https://sheia.github.io/2023/06/13/EscapingTheBuildTrap1.html)
 
 
 Thanks for reading.
